@@ -1,7 +1,7 @@
 # Spotify Projrct
 
 ## Overview
-This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries to solve business problems and generate insights.
+This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries to solve business problems and generating insights.
 
 ```sql
 -- Create Table

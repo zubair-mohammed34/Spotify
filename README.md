@@ -4,7 +4,7 @@
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries to solve business problems and generate insights.
 
 ```sql
--- create table
+-- Create Table
 DROP TABLE IF EXISTS spotify;
 CREATE TABLE spotify (
     artist VARCHAR(255),
